@@ -2,7 +2,7 @@
 let num1 = prompt(" enter  first number");
 console.log("num1",num1);
 let num2 = prompt(" enter  second number");
-console.log(num2);
+console.log("num2",num2);
 let a = prompt("operater");
 let text=0;
 
